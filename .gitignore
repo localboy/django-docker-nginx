@@ -1,0 +1,10 @@
+*.pyc
+*.py.orig
+*.swp
+.idea
+.DS_Store
+dump.rdb
+venv
+env
+logs
+staticfiles/*
